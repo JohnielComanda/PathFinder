@@ -1,0 +1,11 @@
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\bin\Debug\PathFinder.exe.config
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.AssemblyReference.cache
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.GenerateResource.cache
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
+C:\Users\Johniel\Desktop\Personal Folder\MY STUDY\Third Year Semester 2\CSIT 340\csit340-oop-JohnielComanda\PathFinder\PathFinder\obj\Debug\PathFinder.PathFinder.resources
